@@ -1,0 +1,157 @@
+following locales are found
+Malay (Malaysia)
+Arabic (Qatar)
+Icelandic (Iceland)
+Finnish (Finland)
+Polish
+English (Malta)
+Italian (Switzerland)
+Dutch (Belgium)
+Arabic (Saudi Arabia)
+Arabic (Iraq)
+Spanish (Puerto Rico)
+Spanish (Chile)
+Finnish
+German (Austria)
+Danish
+English (United Kingdom)
+Spanish (Panama)
+Serbian
+Arabic (Yemen)
+Macedonian (Macedonia)
+Macedonian
+English (Canada)
+Vietnamese (Vietnam)
+Dutch (Netherlands)
+Spanish (United States)
+Chinese (China)
+Spanish (Honduras)
+English (United States)
+French
+Thai
+Arabic
+Arabic (Morocco)
+Latvian
+German
+Indonesian (Indonesia)
+Croatian
+English (South Africa)
+Korean (South Korea)
+Arabic (Tunisia)
+Indonesian
+Japanese
+Serbian (Serbia)
+Belarusian (Belarus)
+Chinese (Taiwan)
+Arabic (Sudan)
+Portuguese
+Icelandic
+Japanese (Japan,JP)
+Spanish (Bolivia)
+Arabic (Algeria)
+Malay
+Spanish (Argentina)
+Arabic (United Arab Emirates)
+French (Canada)
+Slovenian
+Spanish
+Lithuanian (Lithuania)
+Serbian (Latin,Montenegro)
+Arabic (Syria)
+Russian (Russia)
+French (Belgium)
+Spanish (Spain)
+Bulgarian
+Hebrew (Israel)
+Swedish
+English
+Hebrew
+Danish (Denmark)
+Spanish (Costa Rica)
+Chinese (Hong Kong)
+Chinese
+Catalan (Spain)
+Thai (Thailand)
+Ukrainian (Ukraine)
+Spanish (Dominican Republic)
+Spanish (Venezuela)
+Polish (Poland)
+Arabic (Libya)
+Arabic (Jordan)
+Italian
+Ukrainian
+Hungarian (Hungary)
+Irish
+Spanish (Guatemala)
+Spanish (Paraguay)
+Bulgarian (Bulgaria)
+Croatian (Croatia)
+Serbian (Latin,Bosnia and Herzegovina)
+Romanian (Romania)
+French (Luxembourg)
+Norwegian
+Lithuanian
+English (Singapore)
+Spanish (Ecuador)
+Serbian (Bosnia and Herzegovina)
+Spanish (Nicaragua)
+Slovak
+Russian
+Maltese
+Spanish (El Salvador)
+Dutch
+Hindi (India)
+Estonian
+Greek (Greece)
+Slovenian (Slovenia)
+Italian (Italy)
+Japanese (Japan)
+German (Luxembourg)
+French (Switzerland)
+Maltese (Malta)
+Arabic (Bahrain)
+Albanian
+Vietnamese
+Serbian (Montenegro)
+Portuguese (Brazil)
+Norwegian (Norway)
+Greek
+German (Switzerland)
+Chinese (Singapore)
+Arabic (Kuwait)
+Arabic (Egypt)
+Irish (Ireland)
+Spanish (Peru)
+Czech (Czech Republic)
+Turkish (Turkey)
+Czech
+Spanish (Uruguay)
+English (Ireland)
+English (India)
+Arabic (Oman)
+Serbian (Serbia and Montenegro)
+Catalan
+Belarusian
+Serbian (Latin)
+Korean
+Albanian (Albania)
+Portuguese (Portugal)
+Latvian (Latvia)
+Serbian (Latin,Serbia)
+Slovak (Slovakia)
+Spanish (Mexico)
+English (Australia)
+Norwegian (Norway,Nynorsk)
+English (New Zealand)
+Swedish (Sweden)
+Romanian
+Arabic (Lebanon)
+German (Germany)
+Thai (Thailand,TH)
+Turkish
+Spanish (Colombia)
+English (Philippines)
+Estonian (Estonia)
+Greek (Cyprus)
+Hungarian
+French (France)

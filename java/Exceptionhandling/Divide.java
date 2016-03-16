@@ -1,0 +1,16 @@
+class Divide
+{
+ public static void main(String args[])
+ {
+ try{
+    if(args.length<2)
+    throw(new Exception("Two arguments must be provided"));
+
+  
+
+  
+   }
+ catch(Exception e)
+{System.out.println(e);}
+}
+}

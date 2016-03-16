@@ -1,0 +1,50 @@
+package collection;
+import java.util.*;
+
+ class Traversor extends Thread {
+	Enumeration e;
+	public Traversor(Enumeration e){
+		this.e=e;
+	}
+	public void run()
+	{
+		System.out.println("new thread is started, traversing vector elements");
+		while(e.hasMoreElements()){
+			{
+				System.out.println(e.nextElement());
+				try{
+					Thread.sleep(2000);
+				}catch(Exception e){}
+			}
+			System.out.println("new Thread is completed");
+			
+		}
+	}
+
+}
+class VectorTest{
+	public static void main(String args[]){
+		System.out.println("main thread is started,creating vector.......");
+		Vector v=new Vector();
+		v.addElement("one");
+		v.add("three");
+		v.add(1,"two");
+		Enumeration e=v.elements();
+		System.out.println("vector created enumeration obtained");
+		Traversor th=new Traversor(e);
+		th.start();
+		System.out.println("new vector is created,suspending main thread");
+		try{
+			Thread.sleep(1000);
+			
+		}catch(Exception ex){}
+		System.out.println("main thread resumed ,modifying vector------");
+		v.add("four");
+		v.add("five");
+		System.out.println("vector modified,main thrad completed...");
+		
+		
+		
+	}
+}
+
